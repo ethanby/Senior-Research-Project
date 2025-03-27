@@ -1,6 +1,6 @@
 # Analyzing User Behavior and Dependency Patterns in Navigation Apps 
 
-Ethan Byers
+**By: Ethan Byers**
 
 ### Objective: Conduct a survey to measure potential patterns in users of navigation apps
 
